@@ -43,6 +43,9 @@ body{
 .escola-titulo{
     padding: 24px 0;
 }
+.estudante{
+    background-color: #FF5C01;
+}
 
 .estudante-imagem{
     width: 120px;
@@ -54,4 +57,24 @@ body{
 
 .estudante-div{
     text-align: center;
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+    background-color: #FF0505;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
 }
